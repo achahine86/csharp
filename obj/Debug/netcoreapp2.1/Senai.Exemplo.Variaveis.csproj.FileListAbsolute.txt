@@ -1,0 +1,11 @@
+C:\Users\35482820831\Senai.Exemplo.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.deps.json
+C:\Users\35482820831\Senai.Exemplo.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.runtimeconfig.json
+C:\Users\35482820831\Senai.Exemplo.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.runtimeconfig.dev.json
+C:\Users\35482820831\Senai.Exemplo.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.dll
+C:\Users\35482820831\Senai.Exemplo.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.pdb
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.csprojAssemblyReference.cache
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.AssemblyInfoInputs.cache
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.AssemblyInfo.cs
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.dll
+C:\Users\35482820831\Senai.Exemplo.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exemplo.Variaveis.pdb
